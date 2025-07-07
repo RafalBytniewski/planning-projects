@@ -1,8 +1,31 @@
 # FUTURE PROJECTS
 
-# 1. 📌 Project Name
+# 1. 📌 Tax calucator
 
-Krótki opis projektu (1–2 zdania) — co robi, do czego służy, dla kogo jest.
+Web app based in Laravel made for people who want to easly save all invest transactions(buy and sell) and autmatically count taxes. 
+
+---
+
+## 🚀 Features
+
+- 🔒 System autoryzacji
+- ✅ Add transaction to custom wallet
+- ✅ Manage transaction(buy, sell)
+- ✅ 
+
+---
+
+## 🛠️ Tech Stack
+
+- Frontend: Alpine.js / Tailwind CSS / HTML/CSS
+- Backend: Laravel / Livewire / Filament
+- Baza danych: MySql
+- Inne: GitHub
+
+---
+# 2. 📌 CS2Lounge v2
+
+CSGOLounge site for public/answer CS2 skins trade offers 
 
 ---
 
@@ -19,31 +42,30 @@ Krótki opis projektu (1–2 zdania) — co robi, do czego służy, dla kogo jes
 
 - Frontend: React / Vue / Svelte / HTML/CSS
 - Backend: Node.js / Django / Spring Boot / etc.
-- Baza danych: PostgreSQL / MongoDB / etc.
-- Inne: Docker / Redis / GitHub Actions
+- Database: PostgreSQL / MongoDB / etc.
+- Others: Docker / Redis / GitHub Actions
 
 ---
-# 2. 📌 Project Name
+# 3. 📌 name
 
-Krótki opis projektu (1–2 zdania) — co robi, do czego służy, dla kogo jest.
+description
 
 ---
 
 ## 🚀 Features
 
-- ✅ Funkcja 1
-- ✅ Funkcja 2
-- ✅ Obsługa [czegoś]
-- 🔒 Bezpieczne logowanie / API / itp.
+- ✅ 1
+- ✅ 2
+- ✅ 3
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Frontend: React / Vue / Svelte / HTML/CSS
-- Backend: Node.js / Django / Spring Boot / etc.
-- Baza danych: PostgreSQL / MongoDB / etc.
-- Inne: Docker / Redis / GitHub Actions
+- Frontend: / / 
+- Backend:  / /
+- Database: / / 
+- Others:  / / 
 
 ---
 
