@@ -1,6 +1,6 @@
 # FUTURE PROJECTS
 
-# 1. 📌 Tax calucator
+# 1. 📌 Invest tax calucator (InvestTax)
 
 Web app based in Laravel made for people who want to easly save all invest transactions(buy and sell) and autmatically count taxes. 
 
